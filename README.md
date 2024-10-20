@@ -15,13 +15,11 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="ghalibpratama.gpro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ghalibhani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Ghalib Hani Pratama" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I'm a passionate Mobile and Web Developer with a strong interest in both front-end and back-end development. I enjoy building seamless user experiences and scalable solutions, from designing intuitive interfaces to working on the server-side logic that powers applications.
+ <h3 align="left">I'm a passionate Mobile and Web Developer with a strong interest in both front-end and back-end development. I enjoy building seamless user experiences and scalable solutions, from designing intuitive interfaces to working on the server-side logic that powers applications.
 
 Currently, I'm expanding my expertise in technologies that bridge the gap between mobile and web platforms, aiming to deliver quality and efficiency in everything I build.
 
-I'm always looking for opportunities to collaborate and learn, so feel free to reach out or explore my projects!</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
+I'm always looking for opportunities to collaborate and learn, so feel free to reach out or explore my projects!</h3>
 
 - 💬 Ask me about: **💡 JavaScript, React JS, React Native, PostgreSQL, Java and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
